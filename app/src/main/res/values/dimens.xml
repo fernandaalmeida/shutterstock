@@ -1,0 +1,23 @@
+<resources>
+
+    <dimen name="margin_tera">38dp</dimen>
+    <dimen name="margin_gigaer">26dp</dimen>
+    <dimen name="margin_giga">24dp</dimen>
+    <dimen name="margin_mega">20dp</dimen>
+    <dimen name="margin_huger">18dp</dimen>
+    <dimen name="margin_huge">16dp</dimen>
+    <dimen name="margin_larger">14dp</dimen>
+    <dimen name="margin_large">12dp</dimen>
+    <dimen name="margin_medium">8dp</dimen>
+    <dimen name="margin_small">4dp</dimen>
+    <dimen name="margin_mini">2dp</dimen>
+
+    <dimen name="flag_width">70dp</dimen>
+    <dimen name="flag_heigh">50dp</dimen>
+
+    <dimen name="text_size_huger">22dp</dimen>
+    <dimen name="text_size_huge">18dp</dimen>
+    <dimen name="text_size_large">16dp</dimen>
+    <dimen name="text_size_medium">14dp</dimen>
+    <dimen name="text_size_small">12dp</dimen>
+</resources>
