@@ -8,7 +8,9 @@ RxJava2 - To better handling of asynchronous network calls
 Dagger2 - Framework for better handling DI, makes testing easier
 Glide - LIbrary to efficiently load images on android
 Data Binding - Empowers UI development and eliminates boilerplate
+
 --Tests--
+
 Espresso - Framework used to create user intereface tests
 Mockito - Framweork used to simplify mock objects for testing
 Hamcrest - Improves testing making use of matchers classes
