@@ -18,6 +18,7 @@ Hamcrest - Improves testing making use of matchers classes
 MVP architecture was chosen for this project as its simples, focus on business logic and makes testing easier
 
 Things to improve:
+- Increase code coverage. Right now just some example of unit tests and UI test. Include instrumentation test with roboletric
 - Refactor build.gradle to make use of for eg: libraries.gradle where would be defined all dependencies adn its versions
 - Remove hardcoded values from layouts. Using the dimens values. Include more styles
 - Unify use of Data Binding, is not being used in all activities/fragments
